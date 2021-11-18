@@ -1,0 +1,21 @@
+.coloracaoHome {
+    background-color: #6b0504;
+}
+
+.typographyHome{
+    color: #DFDFDF !important;
+}
+
+.imagem {
+    height: 100%;
+    width: 100%;
+}
+
+.texteDecoration{
+    text-decoration: none !important;
+}
+
+.buttonColor {
+    border: solid #DFDFDF 1px !important;
+    color: #DFDFDF !important;
+}
